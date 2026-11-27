@@ -1,4 +1,4 @@
-# José Guerrero Marín
+# José Guerrero
 
 **Técnico en Sistemas Microinformáticos y Redes (SMR) · Estudiante de Administración de Sistemas Informáticos en Red (ASIR)**
 
