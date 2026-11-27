@@ -2,7 +2,7 @@
 
 **Técnico en Sistemas Microinformáticos y Redes (SMR) | Estudiante de Administración de Sistemas Informáticos en Red (ASIR)**
 
-Sevilla, España · [joseguerrero2008@proton.me](mailto:joseguerrero2008@proton.me) · [GitHub](https://github.com/JGuerrero-11) · [LinkedIn](https://linkedin.com/in/tu-perfil)
+Sevilla, España · [GitHub](https://github.com/JGuerrero-11) · [LinkedIn](https://linkedin.com/in/tu-perfil)
 
 ---
 
@@ -64,7 +64,5 @@ Orientado a la resolución estructurada de incidencias, la fiabilidad de los sis
 ## Contacto
 
 Para consultas técnicas, colaboraciones o propuestas profesionales:
-
-* **Correo electrónico:** [joseguerrero2008@proton.me](mailto:joseguerrero2008@proton.me)
 * **GitHub:** [github.com/JGuerrero-11](https://github.com/JGuerrero-11)
 * **Ubicación:** Sevilla, España
